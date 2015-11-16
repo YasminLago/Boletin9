@@ -9,7 +9,8 @@ public class Boletin9_5 {
         NumerosPares n = new NumerosPares();
         n.serieNumeros();
         
-        /* //Exercicio 5 apartado b)
+        /* 
+        //Exercicio 5 apartado b)
          NumerosPosiNega n=new NumerosPosiNega();
          n.numPosNeg();
         
