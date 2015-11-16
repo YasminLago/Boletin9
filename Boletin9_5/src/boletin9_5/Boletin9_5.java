@@ -14,7 +14,7 @@ public class Boletin9_5 {
          NumerosPosiNega n=new NumerosPosiNega();
          n.numPosNeg();
         
-         /*
+         
          //Exercicio 5 apartado c)
          Fibonacci f=new Fibonacci();
          f.serieFibo();
