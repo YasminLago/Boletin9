@@ -15,16 +15,11 @@ public class NumerosPosiNega {
         for (n = 1; n <= numero; n++) {
             if ((n % 2) != 0) {
                 System.out.println(" -" + n);
-            }
-        }
-        for (p = 2; p <= numero; p++) {
+            } else {
+                System.out.println(" +" + n);
 
-            if ((p % 2) == 0) {
-                System.out.println(" +" + p);
             }
 
         }
-
     }
-
 }
