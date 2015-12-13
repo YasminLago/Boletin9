@@ -10,7 +10,7 @@ public class Rectangulo {
       base=Integer.parseInt(JOptionPane.showInputDialog("Introduce base "));
       altura=Integer.parseInt(JOptionPane.showInputDialog("Introduce altura "));
        if(base>0 && altura>0){
-       JOptionPane.showMessageDialog(null,"El área es: "+(base*altura)/2);
+       JOptionPane.showMessageDialog(null,"El área es: "+(base*altura));
        }
        else{
        JOptionPane.showMessageDialog(null,"Inserte dos números positivos");        
